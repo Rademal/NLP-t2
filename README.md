@@ -21,10 +21,10 @@ https://fd41-46-165-14-219.eu.ngrok.io
 
 {"x": ["You are a fat pig","Fuck this thing"]}
 
-5.Жмём кнопку Execute
+ 5.Жмём кнопку Execute
 
-6.???
+ 6.???
 
-7.profit
+ 7.profit
 
 8. В окне Responses будет выведен результат, оскорбление это или нет
